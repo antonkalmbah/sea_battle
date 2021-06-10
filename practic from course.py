@@ -20,3 +20,5 @@ print(sum(list_of_numbers[::-1])) # sum() вычисляет сумму элем
 list_new = list_of_numbers.append(sum(list_of_numbers))
 
 print(list_new)
+
+print(list_new)
